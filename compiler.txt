@@ -1,0 +1,2 @@
+mingw32-gcc.exe - с
+mingw32-g++.exe - с++
